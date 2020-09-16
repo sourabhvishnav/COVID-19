@@ -1,0 +1,15 @@
+@-ms-viewport{
+     width: device-width;
+   }
+ body{
+     font-family: 'Ubuntu', sans-serif;
+     background-color:white;
+ }  
+ /* .main{
+      position: relative;
+      background-color: gainsboro;
+ }
+.cases{
+     margin: 25px;
+     padding: 15px;
+} */
